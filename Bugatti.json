@@ -1,0 +1,2747 @@
+{
+  "id": 34,
+  "name": "Bugatti",
+  "url": "https://www.drom.ru/catalog/bugatti/",
+  "bold": false,
+  "models": [
+    {
+      "hasPanorama": false,
+      "url": "https://www.drom.ru/catalog/bugatti/chiron/",
+      "name": "Chiron",
+      "generations": [
+        {
+          "src": "https://s.auto.drom.ru/i24212/c/photos/fullsize/bugatti/chiron/gen473_bugatti_chiron_750283.jpg",
+          "src2x": "https://s.auto.drom.ru/i24212/c/photos/fullsize/bugatti/chiron/gen473x2_bugatti_chiron_750283.jpg",
+          "url": "g_2016_7807",
+          "title": "Bugatti Chiron \r\n03.2016 -  н.в.",
+          "generationInfo": "1 поколение",
+          "isNewAuto": false,
+          "isComingSoon": false,
+          "frames": "",
+          "frameTypes": "Купе",
+          "group": "Модельный ряд Bugatti Chiron для Европы",
+          "groupSalug": "europe",
+          "groupShort": "Для Европы",
+          "images": [
+            "https://s.auto.drom.ru/i24212/c/photos/fullsize/bugatti/chiron/bugatti_chiron_750284.jpg",
+            "https://s.auto.drom.ru/i24212/c/photos/fullsize/bugatti/chiron/bugatti_chiron_750285.jpg",
+            "https://s.auto.drom.ru/i24212/c/photos/fullsize/bugatti/chiron/bugatti_chiron_750286.jpg",
+            "https://s.auto.drom.ru/i24212/c/photos/fullsize/bugatti/chiron/bugatti_chiron_750287.jpg",
+            "https://s.auto.drom.ru/i24212/c/photos/fullsize/bugatti/chiron/bugatti_chiron_750288.jpg",
+            "https://s.auto.drom.ru/i24212/c/photos/fullsize/bugatti/chiron/bugatti_chiron_750289.jpg",
+            "https://s.auto.drom.ru/i24212/c/photos/fullsize/bugatti/chiron/bugatti_chiron_750290.jpg",
+            "https://s.auto.drom.ru/i24212/c/photos/fullsize/bugatti/chiron/bugatti_chiron_750291.jpg",
+            "https://s.auto.drom.ru/i24212/c/photos/fullsize/bugatti/chiron/bugatti_chiron_750292.jpg",
+            "https://s.auto.drom.ru/i24212/c/photos/fullsize/bugatti/chiron/bugatti_chiron_750293.jpg",
+            "https://s.auto.drom.ru/i24212/c/photos/fullsize/bugatti/chiron/bugatti_chiron_750294.jpg",
+            "https://s.auto.drom.ru/i24212/c/photos/fullsize/bugatti/chiron/bugatti_chiron_750295.jpg",
+            "https://s.auto.drom.ru/i24212/c/photos/fullsize/bugatti/chiron/bugatti_chiron_750296.jpg",
+            "https://s.auto.drom.ru/i24212/c/photos/fullsize/bugatti/chiron/bugatti_chiron_750297.jpg",
+            "https://s.auto.drom.ru/i24212/c/photos/fullsize/bugatti/chiron/bugatti_chiron_750298.jpg",
+            "https://s.auto.drom.ru/i24212/c/photos/fullsize/bugatti/chiron/bugatti_chiron_750299.jpg"
+          ],
+          "complectations": [
+            {
+              "name": "8.0 DSG Pur Sport",
+              "url": "/catalog/bugatti/chiron/294859/",
+              "group": "8.0 л, 1500 л.с., бензин, робот, полный привод (4WD)",
+              "specifications": {
+                "Основные параметры": [
+                  {
+                    "name": "Название комплектации",
+                    "value": "8.0 DSG Pur Sport"
+                  },
+                  {
+                    "name": "Период выпуска",
+                    "value": "2020 -"
+                  },
+                  {
+                    "name": "Тип привода",
+                    "value": "Полный (4WD)"
+                  },
+                  {
+                    "name": "Тип кузова",
+                    "value": "Купе"
+                  },
+                  {
+                    "name": "Тип трансмиссии",
+                    "value": "РКПП 7"
+                  },
+                  {
+                    "name": "Объем двигателя, куб.см",
+                    "value": "7993"
+                  },
+                  {
+                    "name": "Время разгона 0-100 км/ч, с",
+                    "value": "2.3"
+                  },
+                  {
+                    "name": "Максимальная скорость, км/ч",
+                    "value": "350"
+                  },
+                  {
+                    "name": "Клиренс (высота дорожного просвета), мм",
+                    "value": "124"
+                  },
+                  {
+                    "name": "Страна сборки",
+                    "value": "Франция"
+                  },
+                  {
+                    "name": "Число дверей",
+                    "value": "2"
+                  }
+                ],
+                "Размеры кузова": [
+                  {
+                    "name": "Габариты кузова (Д x Ш x В), мм",
+                    "value": "4544 x 2038 x 1212"
+                  }
+                ],
+                "Размеры салона": [
+                  {
+                    "name": "Число мест",
+                    "value": "2"
+                  },
+                  {
+                    "name": "Количество рядов сидений",
+                    "value": "1"
+                  }
+                ],
+                "Размерности ходовой части": [
+                  {
+                    "name": "Колесная база, мм",
+                    "value": "2711"
+                  },
+                  {
+                    "name": "Ширина передней колеи, мм",
+                    "value": "1630"
+                  },
+                  {
+                    "name": "Ширина задней колеи, мм",
+                    "value": "1725"
+                  }
+                ],
+                "Вес и допустимые нагрузки": [
+                  {
+                    "name": "Масса, кг",
+                    "value": "1945"
+                  },
+                  {
+                    "name": "Удельная масса, кг/л.с.",
+                    "value": "1.30"
+                  }
+                ],
+                "Объёмы": [
+                  {
+                    "name": "Объем топливного бака, л",
+                    "value": "100"
+                  }
+                ],
+                "Двигатель": [
+                  {
+                    "name": "Используемое топливо",
+                    "value": "Бензин АИ-98"
+                  },
+                  {
+                    "name": "Тип двигателя",
+                    "value": "W-образный, 16-цилиндровый"
+                  },
+                  {
+                    "name": "Нагнетатель",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Тип нагнетателя",
+                    "value": "Турбина"
+                  },
+                  {
+                    "name": "Максимальная мощность, л.с. (кВт) при об./мин.",
+                    "value": "1500 (1,103) / 6900"
+                  },
+                  {
+                    "name": "Максимальный крутящий момент, Н*м (кг*м) при об./мин.",
+                    "value": "1600 (163) / 6000"
+                  },
+                  {
+                    "name": "Доп. информация о двигателе",
+                    "value": "Непосредственый впрыск топлива"
+                  },
+                  {
+                    "name": "Экологический тип двигателя",
+                    "value": "Евро-6"
+                  }
+                ],
+                "Расход топлива": [
+                  {
+                    "name": "Расход топлива в городском цикле, л/100 км",
+                    "value": "35.2"
+                  },
+                  {
+                    "name": "Расход топлива за городом, л/100 км",
+                    "value": "15.2"
+                  },
+                  {
+                    "name": "Расход топлива в смешанном цикле, л/100 км",
+                    "value": "22,5"
+                  },
+                  {
+                    "name": "Выброс CO2, г/км",
+                    "value": "516"
+                  }
+                ],
+                "Коробка передач": [
+                  {
+                    "name": "Поддержка ручного переключения передач",
+                    "value": "yes"
+                  }
+                ],
+                "Рулевое управление": [
+                  {
+                    "name": "Гидроусилитель руля",
+                    "value": "no"
+                  },
+                  {
+                    "name": "Изменение передаточного отношения руля (VGS/VGRS)",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Электрогидроусилитель руля",
+                    "value": "yes"
+                  }
+                ],
+                "Подвеска": [
+                  {
+                    "name": "Передний стабилизатор",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Передняя подвеска",
+                    "value": "Независимая, многорычажная"
+                  },
+                  {
+                    "name": "Задний стабилизатор",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Задняя подвеска",
+                    "value": "Независимая, многорычажная"
+                  }
+                ],
+                "Шины": [
+                  {
+                    "name": "Передние колеса",
+                    "value": "285/30 R20"
+                  },
+                  {
+                    "name": "Задние колеса",
+                    "value": "355/25 R21"
+                  }
+                ],
+                "Тормоза": [
+                  {
+                    "name": "Передние тормоза",
+                    "value": "Дисковые вентилируемые"
+                  },
+                  {
+                    "name": "Задние тормоза",
+                    "value": "Дисковые вентилируемые"
+                  }
+                ],
+                "Фары": [
+                  {
+                    "name": "Светодиодные фары",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Светодиодные ходовые огни",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Cветодиодные задние фонари",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Дополнительный стоп-сигнал",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Датчик света",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Датчик дождя",
+                    "value": "yes"
+                  }
+                ],
+                "Боковые зеркала": [
+                  {
+                    "name": "Электропривод боковых зеркал",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Электроподогрев зеркал",
+                    "value": "yes"
+                  }
+                ],
+                "Аксессуары": [
+                  {
+                    "name": "Передний спойлер",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Задний спойлер",
+                    "value": "yes"
+                  }
+                ],
+                "Руль и центральная панель": [
+                  {
+                    "name": "Кожаная оплетка рулевого колеса",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Регулируемая рулевая колонка",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Телескопическая регулировка руля",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Вертикальная регулировка руля",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Управление аудиосистемой на руле",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Цветной многофункциональный дисплей",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Кнопка запуска двигателя",
+                    "value": "yes"
+                  }
+                ],
+                "Исполнение салона": [
+                  {
+                    "name": "Кожаная обивка салона",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Декоративная отделка",
+                    "value": "Хромированные детали интерьера, отделка углеродным волокном"
+                  }
+                ],
+                "Сиденья": [
+                  {
+                    "name": "Спортивные сиденья",
+                    "value": "yes"
+                  }
+                ],
+                "Электропакет салона": [
+                  {
+                    "name": "Электропривод передних сидений",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Электроподогрев передних сидений",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Центральный замок",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Ключ ДУ (дистанционный ключ)",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Бесключевой доступ",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Электрические стеклоподъемники передние",
+                    "value": "yes"
+                  }
+                ],
+                "Доп. оборудование салона": [
+                  {
+                    "name": "Разъем электропитания",
+                    "value": "yes"
+                  }
+                ],
+                "Подушки безопасности": [
+                  {
+                    "name": "Подушка безопасности водительская",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Подушка безопасности переднего пассажира",
+                    "value": "yes"
+                  }
+                ],
+                "Электронные системы безопасности и контроля движения": [
+                  {
+                    "name": "Антиблокировочная система (ABS)",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Система электронного контроля устойчивости (ESP)",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Переключатель режимов движения",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Передний парктроник",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Задний парктроник",
+                    "value": "yes"
+                  }
+                ],
+                "Микроклимат салона": [
+                  {
+                    "name": "Климат-контроль",
+                    "value": "yes"
+                  }
+                ],
+                "Аудио системы": [
+                  {
+                    "name": "Hands free",
+                    "value": "yes"
+                  }
+                ],
+                "Дополнительные удобства": [
+                  {
+                    "name": "Самозатемняющееся зеркало заднего вида",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Зеркала в противосолнечных козырьках",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Бортовой компьютер",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Иммобилайзер",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Противоугонная система",
+                    "value": "yes"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "8.0 DSG",
+              "url": "/catalog/bugatti/chiron/187237/",
+              "group": "8.0 л, 1500 л.с., бензин, робот, полный привод (4WD)",
+              "specifications": {
+                "Основные параметры": [
+                  {
+                    "name": "Название комплектации",
+                    "value": "8.0 DSG"
+                  },
+                  {
+                    "name": "Период выпуска",
+                    "value": "2016 -"
+                  },
+                  {
+                    "name": "Тип привода",
+                    "value": "Полный (4WD)"
+                  },
+                  {
+                    "name": "Тип кузова",
+                    "value": "Купе"
+                  },
+                  {
+                    "name": "Тип трансмиссии",
+                    "value": "РКПП 7"
+                  },
+                  {
+                    "name": "Объем двигателя, куб.см",
+                    "value": "7993"
+                  },
+                  {
+                    "name": "Время разгона 0-100 км/ч, с",
+                    "value": "2.4"
+                  },
+                  {
+                    "name": "Максимальная скорость, км/ч",
+                    "value": "463"
+                  },
+                  {
+                    "name": "Клиренс (высота дорожного просвета), мм",
+                    "value": "124"
+                  },
+                  {
+                    "name": "Страна сборки",
+                    "value": "Франция"
+                  },
+                  {
+                    "name": "Число дверей",
+                    "value": "2"
+                  }
+                ],
+                "Размеры кузова": [
+                  {
+                    "name": "Габариты кузова (Д x Ш x В), мм",
+                    "value": "4544 x 2038 x 1212"
+                  }
+                ],
+                "Размеры салона": [
+                  {
+                    "name": "Число мест",
+                    "value": "2"
+                  },
+                  {
+                    "name": "Количество рядов сидений",
+                    "value": "1"
+                  }
+                ],
+                "Размерности ходовой части": [
+                  {
+                    "name": "Колесная база, мм",
+                    "value": "2711"
+                  },
+                  {
+                    "name": "Ширина передней колеи, мм",
+                    "value": "1630"
+                  },
+                  {
+                    "name": "Ширина задней колеи, мм",
+                    "value": "1725"
+                  }
+                ],
+                "Вес и допустимые нагрузки": [
+                  {
+                    "name": "Масса, кг",
+                    "value": "1996"
+                  },
+                  {
+                    "name": "Удельная масса, кг/л.с.",
+                    "value": "1.33"
+                  }
+                ],
+                "Объёмы": [
+                  {
+                    "name": "Объем топливного бака, л",
+                    "value": "100"
+                  }
+                ],
+                "Двигатель": [
+                  {
+                    "name": "Используемое топливо",
+                    "value": "Бензин АИ-98"
+                  },
+                  {
+                    "name": "Тип двигателя",
+                    "value": "W-образный, 16-цилиндровый"
+                  },
+                  {
+                    "name": "Нагнетатель",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Тип нагнетателя",
+                    "value": "Турбина"
+                  },
+                  {
+                    "name": "Максимальная мощность, л.с. (кВт) при об./мин.",
+                    "value": "1500 (1,103) / 6700"
+                  },
+                  {
+                    "name": "Максимальный крутящий момент, Н*м (кг*м) при об./мин.",
+                    "value": "1600 (163) / 6000"
+                  },
+                  {
+                    "name": "Доп. информация о двигателе",
+                    "value": "Непосредственый впрыск топлива"
+                  },
+                  {
+                    "name": "Экологический тип двигателя",
+                    "value": "Евро-6"
+                  }
+                ],
+                "Расход топлива": [
+                  {
+                    "name": "Расход топлива в городском цикле, л/100 км",
+                    "value": "35.2"
+                  },
+                  {
+                    "name": "Расход топлива за городом, л/100 км",
+                    "value": "15.2"
+                  },
+                  {
+                    "name": "Расход топлива в смешанном цикле, л/100 км",
+                    "value": "22,5"
+                  },
+                  {
+                    "name": "Выброс CO2, г/км",
+                    "value": "516"
+                  }
+                ],
+                "Коробка передач": [
+                  {
+                    "name": "Поддержка ручного переключения передач",
+                    "value": "yes"
+                  }
+                ],
+                "Рулевое управление": [
+                  {
+                    "name": "Гидроусилитель руля",
+                    "value": "no"
+                  },
+                  {
+                    "name": "Изменение передаточного отношения руля (VGS/VGRS)",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Электрогидроусилитель руля",
+                    "value": "yes"
+                  }
+                ],
+                "Подвеска": [
+                  {
+                    "name": "Передний стабилизатор",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Передняя подвеска",
+                    "value": "Независимая, многорычажная"
+                  },
+                  {
+                    "name": "Задний стабилизатор",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Задняя подвеска",
+                    "value": "Независимая, многорычажная"
+                  }
+                ],
+                "Шины": [
+                  {
+                    "name": "Передние колеса",
+                    "value": "285/30 R20"
+                  },
+                  {
+                    "name": "Задние колеса",
+                    "value": "355/25 R21"
+                  }
+                ],
+                "Тормоза": [
+                  {
+                    "name": "Передние тормоза",
+                    "value": "Дисковые вентилируемые"
+                  },
+                  {
+                    "name": "Задние тормоза",
+                    "value": "Дисковые вентилируемые"
+                  }
+                ],
+                "Фары": [
+                  {
+                    "name": "Светодиодные фары",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Светодиодные ходовые огни",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Cветодиодные задние фонари",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Дополнительный стоп-сигнал",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Датчик света",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Датчик дождя",
+                    "value": "yes"
+                  }
+                ],
+                "Боковые зеркала": [
+                  {
+                    "name": "Электропривод боковых зеркал",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Электроподогрев зеркал",
+                    "value": "yes"
+                  }
+                ],
+                "Аксессуары": [
+                  {
+                    "name": "Передний спойлер",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Задний спойлер",
+                    "value": "yes"
+                  }
+                ],
+                "Руль и центральная панель": [
+                  {
+                    "name": "Кожаная оплетка рулевого колеса",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Регулируемая рулевая колонка",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Телескопическая регулировка руля",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Вертикальная регулировка руля",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Управление аудиосистемой на руле",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Цветной многофункциональный дисплей",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Кнопка запуска двигателя",
+                    "value": "yes"
+                  }
+                ],
+                "Исполнение салона": [
+                  {
+                    "name": "Кожаная обивка салона",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Декоративная отделка",
+                    "value": "Хромированные детали интерьера, отделка углеродным волокном"
+                  }
+                ],
+                "Сиденья": [
+                  {
+                    "name": "Спортивные сиденья",
+                    "value": "yes"
+                  }
+                ],
+                "Электропакет салона": [
+                  {
+                    "name": "Электропривод передних сидений",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Электроподогрев передних сидений",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Центральный замок",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Ключ ДУ (дистанционный ключ)",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Бесключевой доступ",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Электрические стеклоподъемники передние",
+                    "value": "yes"
+                  }
+                ],
+                "Доп. оборудование салона": [
+                  {
+                    "name": "Разъем электропитания",
+                    "value": "yes"
+                  }
+                ],
+                "Подушки безопасности": [
+                  {
+                    "name": "Подушка безопасности водительская",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Подушка безопасности переднего пассажира",
+                    "value": "yes"
+                  }
+                ],
+                "Электронные системы безопасности и контроля движения": [
+                  {
+                    "name": "Антиблокировочная система (ABS)",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Система электронного контроля устойчивости (ESP)",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Переключатель режимов движения",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Передний парктроник",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Задний парктроник",
+                    "value": "yes"
+                  }
+                ],
+                "Микроклимат салона": [
+                  {
+                    "name": "Климат-контроль",
+                    "value": "yes"
+                  }
+                ],
+                "Аудио системы": [
+                  {
+                    "name": "Hands free",
+                    "value": "yes"
+                  }
+                ],
+                "Дополнительные удобства": [
+                  {
+                    "name": "Самозатемняющееся зеркало заднего вида",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Зеркала в противосолнечных козырьках",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Бортовой компьютер",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Иммобилайзер",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Противоугонная система",
+                    "value": "yes"
+                  }
+                ]
+              }
+            }
+          ],
+          "done": true
+        }
+      ],
+      "done": true
+    },
+    {
+      "hasPanorama": false,
+      "url": "https://www.drom.ru/catalog/bugatti/veyron/",
+      "name": "Veyron",
+      "generations": [
+        {
+          "src": "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/gen473_bugatti_veyron_483811.jpg",
+          "src2x": "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/gen473x2_bugatti_veyron_483811.jpg",
+          "url": "g_2012_4711",
+          "title": "Bugatti Veyron \r\n03.2012 - 11.2015",
+          "generationInfo": "1 поколение, рестайлинг",
+          "isNewAuto": false,
+          "isComingSoon": false,
+          "frames": "",
+          "frameTypes": "Открытый кузов",
+          "group": "Модельный ряд Bugatti Veyron для Европы",
+          "groupSalug": "europe",
+          "groupShort": "Для Европы",
+          "images": [
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483812.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483813.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483814.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483815.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483816.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483817.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483818.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483819.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483820.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483821.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483822.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483823.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483824.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483825.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483826.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483827.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483828.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483829.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483830.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483831.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483832.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483833.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483834.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483835.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483836.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483837.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483838.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483839.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483840.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483841.jpg"
+          ],
+          "complectations": [
+            {
+              "name": "8.0 DSG Veyron 16.4 Grand Sport Vitesse",
+              "url": "/catalog/bugatti/veyron/123687/",
+              "group": "8.0 л, 1200 л.с., бензин, робот, полный привод (4WD)",
+              "specifications": {
+                "Основные параметры": [
+                  {
+                    "name": "Название комплектации",
+                    "value": "8.0 DSG Veyron 16.4 Grand Sport Vitesse"
+                  },
+                  {
+                    "name": "Период выпуска",
+                    "value": "2012 - ноябрь 2015"
+                  },
+                  {
+                    "name": "Тип привода",
+                    "value": "Полный (4WD)"
+                  },
+                  {
+                    "name": "Тип кузова",
+                    "value": "Открытый кузов"
+                  },
+                  {
+                    "name": "Тип трансмиссии",
+                    "value": "РКПП 7"
+                  },
+                  {
+                    "name": "Объем двигателя, куб.см",
+                    "value": "7993"
+                  },
+                  {
+                    "name": "Время разгона 0-100 км/ч, с",
+                    "value": "2.6"
+                  },
+                  {
+                    "name": "Максимальная скорость, км/ч",
+                    "value": "410"
+                  },
+                  {
+                    "name": "Клиренс (высота дорожного просвета), мм",
+                    "value": "124"
+                  },
+                  {
+                    "name": "Страна сборки",
+                    "value": "Франция"
+                  },
+                  {
+                    "name": "Число дверей",
+                    "value": "2"
+                  },
+                  {
+                    "name": "Зимняя комплектация",
+                    "value": "yes"
+                  }
+                ],
+                "Размеры кузова": [
+                  {
+                    "name": "Габариты кузова (Д x Ш x В), мм",
+                    "value": "4462 x 1998 x 1204"
+                  }
+                ],
+                "Размеры салона": [
+                  {
+                    "name": "Число мест",
+                    "value": "2"
+                  },
+                  {
+                    "name": "Количество рядов сидений",
+                    "value": "1"
+                  }
+                ],
+                "Размерности ходовой части": [
+                  {
+                    "name": "Колесная база, мм",
+                    "value": "2710"
+                  },
+                  {
+                    "name": "Ширина передней колеи, мм",
+                    "value": "1722"
+                  },
+                  {
+                    "name": "Ширина задней колеи, мм",
+                    "value": "1633"
+                  }
+                ],
+                "Вес и допустимые нагрузки": [
+                  {
+                    "name": "Масса, кг",
+                    "value": "2200"
+                  },
+                  {
+                    "name": "Удельная масса, кг/л.с.",
+                    "value": "1.83"
+                  }
+                ],
+                "Объёмы": [
+                  {
+                    "name": "Объем топливного бака, л",
+                    "value": "100"
+                  },
+                  {
+                    "name": "Объем багажника, л",
+                    "value": "37"
+                  }
+                ],
+                "Дополнительно": [
+                  {
+                    "name": "Коэффициент аэродинамического сопротивления, cW",
+                    "value": "0.39"
+                  }
+                ],
+                "Двигатель": [
+                  {
+                    "name": "Используемое топливо",
+                    "value": "Бензин Premium (АИ-98)"
+                  },
+                  {
+                    "name": "Тип двигателя",
+                    "value": "W-образный, 16-цилиндровый"
+                  },
+                  {
+                    "name": "Нагнетатель",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Тип нагнетателя",
+                    "value": "Четыре турбины"
+                  },
+                  {
+                    "name": "Максимальная мощность, л.с. (кВт) при об./мин.",
+                    "value": "1200 (883) / 6400"
+                  },
+                  {
+                    "name": "Максимальный крутящий момент, Н*м (кг*м) при об./мин.",
+                    "value": "1500 (153) / 5000"
+                  },
+                  {
+                    "name": "Количество клапанов на цилиндр",
+                    "value": "4"
+                  },
+                  {
+                    "name": "Доп. информация о двигателе",
+                    "value": "Инжектор"
+                  }
+                ],
+                "Расход топлива": [
+                  {
+                    "name": "Расход топлива в городском цикле, л/100 км",
+                    "value": "37.2"
+                  },
+                  {
+                    "name": "Расход топлива за городом, л/100 км",
+                    "value": "14.9"
+                  },
+                  {
+                    "name": "Расход топлива в смешанном цикле, л/100 км",
+                    "value": "23,1"
+                  },
+                  {
+                    "name": "Выброс CO2, г/км",
+                    "value": "539"
+                  }
+                ],
+                "Рулевое управление": [
+                  {
+                    "name": "Гидроусилитель руля",
+                    "value": "no"
+                  },
+                  {
+                    "name": "Тип рулевого управления",
+                    "value": "Шестерня-рейка"
+                  }
+                ],
+                "Подвеска": [
+                  {
+                    "name": "Передний стабилизатор",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Передняя подвеска",
+                    "value": "Независимая, многорычажная"
+                  },
+                  {
+                    "name": "Задний стабилизатор",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Задняя подвеска",
+                    "value": "Независимая, многорычажная"
+                  },
+                  {
+                    "name": "Спортивная подвеска",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Блокировка центрального дифференциала",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Дифференциал повышенного трения (LSD)",
+                    "value": "yes"
+                  }
+                ],
+                "Диски": [
+                  {
+                    "name": "Алюминиевые колесные диски",
+                    "value": "yes"
+                  }
+                ],
+                "Шины": [
+                  {
+                    "name": "Передние колеса",
+                    "value": "P265/35YR19.7"
+                  },
+                  {
+                    "name": "Задние колеса",
+                    "value": "365/35YR21.5"
+                  },
+                  {
+                    "name": "Самонесущие шины",
+                    "value": "yes"
+                  }
+                ],
+                "Тормоза": [
+                  {
+                    "name": "Передние тормоза",
+                    "value": "Дисковые вентилируемые"
+                  },
+                  {
+                    "name": "Задние тормоза",
+                    "value": "Дисковые вентилируемые"
+                  }
+                ],
+                "Фары": [
+                  {
+                    "name": "Биксеноновые фары",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Омыватели передних фар",
+                    "value": "yes"
+                  }
+                ],
+                "Боковые зеркала": [
+                  {
+                    "name": "Электропривод боковых зеркал",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Электроподогрев зеркал",
+                    "value": "yes"
+                  }
+                ],
+                "Стёкла": [
+                  {
+                    "name": "Заводская тонировка",
+                    "value": "yes"
+                  }
+                ],
+                "Крыша": [
+                  {
+                    "name": "Тарга",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Жёсткий складной верх",
+                    "value": "yes"
+                  }
+                ],
+                "Аксессуары": [
+                  {
+                    "name": "Задний спойлер",
+                    "value": "yes"
+                  }
+                ],
+                "Руль и центральная панель": [
+                  {
+                    "name": "Кожаная оплетка рулевого колеса",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Вертикальная регулировка руля",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Цветной многофункциональный дисплей",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Тахометр",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Датчик наружной температуры",
+                    "value": "yes"
+                  }
+                ],
+                "Исполнение салона": [
+                  {
+                    "name": "Кожаная обивка салона",
+                    "value": "yes"
+                  }
+                ],
+                "Сиденья": [
+                  {
+                    "name": "Спортивные сиденья",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Регулировка передних сидений",
+                    "value": "6 направлений"
+                  },
+                  {
+                    "name": "Поясничная опора в передних сиденьях",
+                    "value": "yes"
+                  }
+                ],
+                "Электропакет салона": [
+                  {
+                    "name": "Электроподогрев передних сидений",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Центральный замок",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Ключ ДУ (дистанционный ключ)",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Электрические стеклоподъемники",
+                    "value": "yes"
+                  }
+                ],
+                "Подушки безопасности": [
+                  {
+                    "name": "Подушка безопасности водительская",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Подушка безопасности переднего пассажира",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Подушка безопасности пассажира с функцией деактивации",
+                    "value": "yes"
+                  }
+                ],
+                "Активная и пассивная безопасность": [
+                  {
+                    "name": "Натяжитель ремней безопасности",
+                    "value": "yes"
+                  }
+                ],
+                "Электронные системы безопасности и контроля движения": [
+                  {
+                    "name": "Антиблокировочная система (ABS)",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Система распределения тормозного усилия (EBD)",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Вспомогательная система торможения (BAS)",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Система электронного контроля устойчивости (ESP)",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Индикатор падения давления в шинах",
+                    "value": "yes"
+                  }
+                ],
+                "Микроклимат салона": [
+                  {
+                    "name": "Климат-контроль",
+                    "value": "yes"
+                  }
+                ],
+                "Аудио системы": [
+                  {
+                    "name": "Радио",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "CD-плеер",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Поддержка MP3",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Hands free",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Дополнительное оборудование аудиосистемы",
+                    "value": "8 динамиков, разъем для подключения внешнего аудиоустройства, усилитель"
+                  }
+                ],
+                "Навигационное и видео оборудование": [
+                  {
+                    "name": "Система навигации",
+                    "value": "yes"
+                  }
+                ],
+                "Дополнительные удобства": [
+                  {
+                    "name": "Самозатемняющееся зеркало заднего вида",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Компас",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Подсветка при посадке в салон",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Бортовой компьютер",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Противоугонная система",
+                    "value": "yes"
+                  }
+                ]
+              }
+            }
+          ],
+          "done": true
+        },
+        {
+          "src": "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/gen473_bugatti_veyron_483568.jpg",
+          "src2x": "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/gen473x2_bugatti_veyron_483568.jpg",
+          "url": "g_2011_4707",
+          "title": "Bugatti Veyron \r\n10.2011 - 11.2015",
+          "generationInfo": "1 поколение, рестайлинг",
+          "isNewAuto": false,
+          "isComingSoon": false,
+          "frames": "",
+          "frameTypes": "Купе",
+          "group": "Модельный ряд Bugatti Veyron для Европы",
+          "groupSalug": "europe",
+          "groupShort": "Для Европы",
+          "images": [
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483569.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483570.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483571.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483572.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483573.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483574.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483575.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483576.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483577.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483583.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483584.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483585.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483586.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483587.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483588.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483589.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483590.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483591.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483592.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483595.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483596.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483597.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483598.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483599.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483600.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483601.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483602.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483603.jpg"
+          ],
+          "complectations": [
+            {
+              "name": "8.0 DSG Veyron 16.4 Super Sport",
+              "url": "/catalog/bugatti/veyron/123571/",
+              "group": "8.0 л, 1200 л.с., бензин, робот, полный привод (4WD)",
+              "specifications": {
+                "Основные параметры": [
+                  {
+                    "name": "Название комплектации",
+                    "value": "8.0 DSG Veyron 16.4 Super Sport"
+                  },
+                  {
+                    "name": "Период выпуска",
+                    "value": "октябрь 2011 - ноябрь 2015"
+                  },
+                  {
+                    "name": "Тип привода",
+                    "value": "Полный (4WD)"
+                  },
+                  {
+                    "name": "Тип кузова",
+                    "value": "Купе"
+                  },
+                  {
+                    "name": "Тип трансмиссии",
+                    "value": "РКПП 7"
+                  },
+                  {
+                    "name": "Объем двигателя, куб.см",
+                    "value": "7993"
+                  },
+                  {
+                    "name": "Время разгона 0-100 км/ч, с",
+                    "value": "2.5"
+                  },
+                  {
+                    "name": "Максимальная скорость, км/ч",
+                    "value": "415"
+                  },
+                  {
+                    "name": "Клиренс (высота дорожного просвета), мм",
+                    "value": "124"
+                  },
+                  {
+                    "name": "Страна сборки",
+                    "value": "Франция"
+                  },
+                  {
+                    "name": "Число дверей",
+                    "value": "2"
+                  },
+                  {
+                    "name": "Зимняя комплектация",
+                    "value": "yes"
+                  }
+                ],
+                "Размеры кузова": [
+                  {
+                    "name": "Габариты кузова (Д x Ш x В), мм",
+                    "value": "4462 x 1998 x 1204"
+                  }
+                ],
+                "Размеры салона": [
+                  {
+                    "name": "Число мест",
+                    "value": "2"
+                  },
+                  {
+                    "name": "Количество рядов сидений",
+                    "value": "1"
+                  }
+                ],
+                "Размерности ходовой части": [
+                  {
+                    "name": "Колесная база, мм",
+                    "value": "2710"
+                  },
+                  {
+                    "name": "Ширина передней колеи, мм",
+                    "value": "1722"
+                  },
+                  {
+                    "name": "Ширина задней колеи, мм",
+                    "value": "1633"
+                  }
+                ],
+                "Вес и допустимые нагрузки": [
+                  {
+                    "name": "Масса, кг",
+                    "value": "1838"
+                  },
+                  {
+                    "name": "Удельная масса, кг/л.с.",
+                    "value": "1.53"
+                  }
+                ],
+                "Объёмы": [
+                  {
+                    "name": "Объем топливного бака, л",
+                    "value": "100"
+                  },
+                  {
+                    "name": "Объем багажника, л",
+                    "value": "37"
+                  }
+                ],
+                "Двигатель": [
+                  {
+                    "name": "Используемое топливо",
+                    "value": "Бензин Premium (АИ-98)"
+                  },
+                  {
+                    "name": "Тип двигателя",
+                    "value": "W-образный, 16-цилиндровый"
+                  },
+                  {
+                    "name": "Нагнетатель",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Тип нагнетателя",
+                    "value": "Четыре турбины"
+                  },
+                  {
+                    "name": "Максимальная мощность, л.с. (кВт) при об./мин.",
+                    "value": "1200 (883) / 6400"
+                  },
+                  {
+                    "name": "Максимальный крутящий момент, Н*м (кг*м) при об./мин.",
+                    "value": "1500 (153) / 5000"
+                  },
+                  {
+                    "name": "Количество клапанов на цилиндр",
+                    "value": "4"
+                  },
+                  {
+                    "name": "Доп. информация о двигателе",
+                    "value": "Инжектор"
+                  }
+                ],
+                "Расход топлива": [
+                  {
+                    "name": "Расход топлива в городском цикле, л/100 км",
+                    "value": "37.2"
+                  },
+                  {
+                    "name": "Расход топлива за городом, л/100 км",
+                    "value": "14.9"
+                  },
+                  {
+                    "name": "Расход топлива в смешанном цикле, л/100 км",
+                    "value": "23,1"
+                  },
+                  {
+                    "name": "Выброс CO2, г/км",
+                    "value": "539"
+                  }
+                ],
+                "Рулевое управление": [
+                  {
+                    "name": "Гидроусилитель руля",
+                    "value": "no"
+                  },
+                  {
+                    "name": "Тип рулевого управления",
+                    "value": "Шестерня-рейка"
+                  }
+                ],
+                "Подвеска": [
+                  {
+                    "name": "Передний стабилизатор",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Передняя подвеска",
+                    "value": "Независимая, многорычажная"
+                  },
+                  {
+                    "name": "Задний стабилизатор",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Задняя подвеска",
+                    "value": "Независимая, многорычажная"
+                  },
+                  {
+                    "name": "Спортивная подвеска",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Блокировка центрального дифференциала",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Дифференциал повышенного трения (LSD)",
+                    "value": "yes"
+                  }
+                ],
+                "Диски": [
+                  {
+                    "name": "Алюминиевые колесные диски",
+                    "value": "yes"
+                  }
+                ],
+                "Шины": [
+                  {
+                    "name": "Передние колеса",
+                    "value": "P265/35YR19.7"
+                  },
+                  {
+                    "name": "Задние колеса",
+                    "value": "365/35YR21.5"
+                  },
+                  {
+                    "name": "Самонесущие шины",
+                    "value": "yes"
+                  }
+                ],
+                "Тормоза": [
+                  {
+                    "name": "Передние тормоза",
+                    "value": "Дисковые вентилируемые"
+                  },
+                  {
+                    "name": "Задние тормоза",
+                    "value": "Дисковые вентилируемые"
+                  }
+                ],
+                "Фары": [
+                  {
+                    "name": "Биксеноновые фары",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Омыватели передних фар",
+                    "value": "yes"
+                  }
+                ],
+                "Боковые зеркала": [
+                  {
+                    "name": "Электропривод боковых зеркал",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Электроподогрев зеркал",
+                    "value": "yes"
+                  }
+                ],
+                "Стёкла": [
+                  {
+                    "name": "Заводская тонировка",
+                    "value": "yes"
+                  }
+                ],
+                "Аксессуары": [
+                  {
+                    "name": "Задний спойлер",
+                    "value": "yes"
+                  }
+                ],
+                "Руль и центральная панель": [
+                  {
+                    "name": "Кожаная оплетка рулевого колеса",
+                    "value": "no"
+                  },
+                  {
+                    "name": "Вертикальная регулировка руля",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Цветной многофункциональный дисплей",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Тахометр",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Датчик наружной температуры",
+                    "value": "yes"
+                  }
+                ],
+                "Исполнение салона": [
+                  {
+                    "name": "Кожаная обивка салона",
+                    "value": "yes"
+                  }
+                ],
+                "Сиденья": [
+                  {
+                    "name": "Спортивные сиденья",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Регулировка передних сидений",
+                    "value": "6 направлений"
+                  },
+                  {
+                    "name": "Поясничная опора в передних сиденьях",
+                    "value": "yes"
+                  }
+                ],
+                "Электропакет салона": [
+                  {
+                    "name": "Электроподогрев передних сидений",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Центральный замок",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Ключ ДУ (дистанционный ключ)",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Электрические стеклоподъемники",
+                    "value": "yes"
+                  }
+                ],
+                "Подушки безопасности": [
+                  {
+                    "name": "Подушка безопасности водительская",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Подушка безопасности переднего пассажира",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Подушка безопасности пассажира с функцией деактивации",
+                    "value": "yes"
+                  }
+                ],
+                "Активная и пассивная безопасность": [
+                  {
+                    "name": "Натяжитель ремней безопасности",
+                    "value": "yes"
+                  }
+                ],
+                "Электронные системы безопасности и контроля движения": [
+                  {
+                    "name": "Антиблокировочная система (ABS)",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Система распределения тормозного усилия (EBD)",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Вспомогательная система торможения (BAS)",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Система электронного контроля устойчивости (ESP)",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Индикатор падения давления в шинах",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Парктроник",
+                    "value": "yes"
+                  }
+                ],
+                "Микроклимат салона": [
+                  {
+                    "name": "Климат-контроль",
+                    "value": "yes"
+                  }
+                ],
+                "Аудио системы": [
+                  {
+                    "name": "Радио",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "CD-плеер",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Поддержка MP3",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Hands free",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Дополнительное оборудование аудиосистемы",
+                    "value": "8 динамиков, разъем для подключения внешнего аудиоустройства, усилитель"
+                  }
+                ],
+                "Навигационное и видео оборудование": [
+                  {
+                    "name": "Система навигации",
+                    "value": "yes"
+                  }
+                ],
+                "Дополнительные удобства": [
+                  {
+                    "name": "Самозатемняющееся зеркало заднего вида",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Компас",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Подсветка при посадке в салон",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Бортовой компьютер",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Противоугонная система",
+                    "value": "yes"
+                  }
+                ]
+              }
+            }
+          ],
+          "done": true
+        },
+        {
+          "src": "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/gen473_bugatti_veyron_483776.jpg",
+          "src2x": "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/gen473x2_bugatti_veyron_483776.jpg",
+          "url": "g_2009_1932",
+          "title": "Bugatti Veyron \r\n04.2009 - 02.2012",
+          "generationInfo": "1 поколение",
+          "isNewAuto": false,
+          "isComingSoon": false,
+          "frames": "",
+          "frameTypes": "Открытый кузов",
+          "group": "Модельный ряд Bugatti Veyron для Европы",
+          "groupSalug": "europe",
+          "groupShort": "Для Европы",
+          "images": [
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483777.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483778.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483779.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483780.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483781.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483782.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483783.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483784.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483785.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483786.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483787.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483788.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483789.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483790.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483791.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483792.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483793.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483794.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483795.jpg"
+          ],
+          "complectations": [
+            {
+              "name": "8.0 DSG Veyron 16.4 Grand Sport",
+              "url": "/catalog/bugatti/veyron/70682/",
+              "group": "8.0 л, 1001 л.с., бензин, робот, полный привод (4WD)",
+              "specifications": {
+                "Основные параметры": [
+                  {
+                    "name": "Название комплектации",
+                    "value": "8.0 DSG Veyron 16.4 Grand Sport"
+                  },
+                  {
+                    "name": "Период выпуска",
+                    "value": "2009 - 2012"
+                  },
+                  {
+                    "name": "Тип привода",
+                    "value": "Полный (4WD)"
+                  },
+                  {
+                    "name": "Тип кузова",
+                    "value": "Открытый кузов"
+                  },
+                  {
+                    "name": "Тип трансмиссии",
+                    "value": "РКПП 7"
+                  },
+                  {
+                    "name": "Объем двигателя, куб.см",
+                    "value": "7993"
+                  },
+                  {
+                    "name": "Время разгона 0-100 км/ч, с",
+                    "value": "2.7"
+                  },
+                  {
+                    "name": "Максимальная скорость, км/ч",
+                    "value": "407"
+                  },
+                  {
+                    "name": "Клиренс (высота дорожного просвета), мм",
+                    "value": "124"
+                  },
+                  {
+                    "name": "Страна сборки",
+                    "value": "Франция"
+                  },
+                  {
+                    "name": "Число дверей",
+                    "value": "2"
+                  },
+                  {
+                    "name": "Зимняя комплектация",
+                    "value": "yes"
+                  }
+                ],
+                "Размеры кузова": [
+                  {
+                    "name": "Габариты кузова (Д x Ш x В), мм",
+                    "value": "4462 x 1998 x 1204"
+                  }
+                ],
+                "Размеры салона": [
+                  {
+                    "name": "Число мест",
+                    "value": "2"
+                  },
+                  {
+                    "name": "Количество рядов сидений",
+                    "value": "1"
+                  }
+                ],
+                "Размерности ходовой части": [
+                  {
+                    "name": "Колесная база, мм",
+                    "value": "2710"
+                  },
+                  {
+                    "name": "Ширина передней колеи, мм",
+                    "value": "1722"
+                  },
+                  {
+                    "name": "Ширина задней колеи, мм",
+                    "value": "1633"
+                  }
+                ],
+                "Вес и допустимые нагрузки": [
+                  {
+                    "name": "Масса, кг",
+                    "value": "1990"
+                  },
+                  {
+                    "name": "Допустимая полная масса, кг",
+                    "value": "2240"
+                  },
+                  {
+                    "name": "Удельная масса, кг/л.с.",
+                    "value": "1.99"
+                  }
+                ],
+                "Объёмы": [
+                  {
+                    "name": "Объем топливного бака, л",
+                    "value": "100"
+                  },
+                  {
+                    "name": "Объем багажника, л",
+                    "value": "37"
+                  }
+                ],
+                "Дополнительно": [
+                  {
+                    "name": "Коэффициент аэродинамического сопротивления, cW",
+                    "value": "0.39"
+                  }
+                ],
+                "Двигатель": [
+                  {
+                    "name": "Используемое топливо",
+                    "value": "Бензин Premium (АИ-98)"
+                  },
+                  {
+                    "name": "Тип двигателя",
+                    "value": "W-образный, 16-цилиндровый"
+                  },
+                  {
+                    "name": "Нагнетатель",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Тип нагнетателя",
+                    "value": "Четыре турбины"
+                  },
+                  {
+                    "name": "Максимальная мощность, л.с. (кВт) при об./мин.",
+                    "value": "1001 (736) / 6000"
+                  },
+                  {
+                    "name": "Максимальный крутящий момент, Н*м (кг*м) при об./мин.",
+                    "value": "1250 (128) / 5500"
+                  },
+                  {
+                    "name": "Количество клапанов на цилиндр",
+                    "value": "4"
+                  },
+                  {
+                    "name": "Доп. информация о двигателе",
+                    "value": "Инжектор"
+                  }
+                ],
+                "Расход топлива": [
+                  {
+                    "name": "Расход топлива в городском цикле, л/100 км",
+                    "value": "41.9"
+                  },
+                  {
+                    "name": "Расход топлива за городом, л/100 км",
+                    "value": "15.6"
+                  },
+                  {
+                    "name": "Расход топлива в смешанном цикле, л/100 км",
+                    "value": "24,9"
+                  },
+                  {
+                    "name": "Выброс CO2, г/км",
+                    "value": "596"
+                  }
+                ],
+                "Рулевое управление": [
+                  {
+                    "name": "Гидроусилитель руля",
+                    "value": "no"
+                  },
+                  {
+                    "name": "Тип рулевого управления",
+                    "value": "Шестерня-рейка"
+                  }
+                ],
+                "Подвеска": [
+                  {
+                    "name": "Передний стабилизатор",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Передняя подвеска",
+                    "value": "Независимая, многорычажная"
+                  },
+                  {
+                    "name": "Задний стабилизатор",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Задняя подвеска",
+                    "value": "Независимая, многорычажная"
+                  },
+                  {
+                    "name": "Спортивная подвеска",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Блокировка центрального дифференциала",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Дифференциал повышенного трения (LSD)",
+                    "value": "yes"
+                  }
+                ],
+                "Диски": [
+                  {
+                    "name": "Алюминиевые колесные диски",
+                    "value": "yes"
+                  }
+                ],
+                "Шины": [
+                  {
+                    "name": "Передние колеса",
+                    "value": "P265/35YR19.7"
+                  },
+                  {
+                    "name": "Задние колеса",
+                    "value": "365/35YR21.5"
+                  },
+                  {
+                    "name": "Самонесущие шины",
+                    "value": "yes"
+                  }
+                ],
+                "Тормоза": [
+                  {
+                    "name": "Передние тормоза",
+                    "value": "Дисковые вентилируемые"
+                  },
+                  {
+                    "name": "Задние тормоза",
+                    "value": "Дисковые вентилируемые"
+                  }
+                ],
+                "Фары": [
+                  {
+                    "name": "Биксеноновые фары",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Омыватели передних фар",
+                    "value": "yes"
+                  }
+                ],
+                "Боковые зеркала": [
+                  {
+                    "name": "Электропривод боковых зеркал",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Электроподогрев зеркал",
+                    "value": "yes"
+                  }
+                ],
+                "Стёкла": [
+                  {
+                    "name": "Заводская тонировка",
+                    "value": "yes"
+                  }
+                ],
+                "Крыша": [
+                  {
+                    "name": "Тарга",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Жёсткий складной верх",
+                    "value": "yes"
+                  }
+                ],
+                "Аксессуары": [
+                  {
+                    "name": "Задний спойлер",
+                    "value": "yes"
+                  }
+                ],
+                "Руль и центральная панель": [
+                  {
+                    "name": "Кожаная оплетка рулевого колеса",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Вертикальная регулировка руля",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Цветной многофункциональный дисплей",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Тахометр",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Датчик наружной температуры",
+                    "value": "yes"
+                  }
+                ],
+                "Исполнение салона": [
+                  {
+                    "name": "Кожаная обивка салона",
+                    "value": "yes"
+                  }
+                ],
+                "Сиденья": [
+                  {
+                    "name": "Спортивные сиденья",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Регулировка передних сидений",
+                    "value": "6 направлений"
+                  },
+                  {
+                    "name": "Поясничная опора в передних сиденьях",
+                    "value": "yes"
+                  }
+                ],
+                "Электропакет салона": [
+                  {
+                    "name": "Электроподогрев передних сидений",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Центральный замок",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Ключ ДУ (дистанционный ключ)",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Электрические стеклоподъемники",
+                    "value": "yes"
+                  }
+                ],
+                "Подушки безопасности": [
+                  {
+                    "name": "Подушка безопасности водительская",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Подушка безопасности переднего пассажира",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Подушка безопасности пассажира с функцией деактивации",
+                    "value": "yes"
+                  }
+                ],
+                "Активная и пассивная безопасность": [
+                  {
+                    "name": "Натяжитель ремней безопасности",
+                    "value": "yes"
+                  }
+                ],
+                "Электронные системы безопасности и контроля движения": [
+                  {
+                    "name": "Антиблокировочная система (ABS)",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Система распределения тормозного усилия (EBD)",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Вспомогательная система торможения (BAS)",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Система электронного контроля устойчивости (ESP)",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Индикатор падения давления в шинах",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Парктроник",
+                    "value": "no"
+                  }
+                ],
+                "Микроклимат салона": [
+                  {
+                    "name": "Климат-контроль",
+                    "value": "yes"
+                  }
+                ],
+                "Аудио системы": [
+                  {
+                    "name": "Радио",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "CD-плеер",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Поддержка MP3",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Hands free",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Дополнительное оборудование аудиосистемы",
+                    "value": "8 динамиков, разъем для подключения внешнего аудиоустройства, усилитель"
+                  }
+                ],
+                "Навигационное и видео оборудование": [
+                  {
+                    "name": "Система навигации",
+                    "value": "yes"
+                  }
+                ],
+                "Дополнительные удобства": [
+                  {
+                    "name": "Самозатемняющееся зеркало заднего вида",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Компас",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Подсветка при посадке в салон",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Бортовой компьютер",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Противоугонная система",
+                    "value": "yes"
+                  }
+                ]
+              }
+            }
+          ],
+          "done": true
+        },
+        {
+          "src": "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/gen473_bugatti_veyron_483551.jpg",
+          "src2x": "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/gen473x2_bugatti_veyron_483551.jpg",
+          "url": "g_2005_1866",
+          "title": "Bugatti Veyron \r\n09.2005 - 09.2011",
+          "generationInfo": "1 поколение",
+          "isNewAuto": false,
+          "isComingSoon": false,
+          "frames": "",
+          "frameTypes": "Купе",
+          "group": "Модельный ряд Bugatti Veyron для Европы",
+          "groupSalug": "europe",
+          "groupShort": "Для Европы",
+          "images": [
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483552.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483553.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483554.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483555.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483556.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483557.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483558.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483559.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483560.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483561.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483562.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483563.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483564.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483565.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483566.jpg",
+            "https://s.auto.drom.ru/i24196/c/photos/fullsize/bugatti/veyron/bugatti_veyron_483567.jpg"
+          ],
+          "complectations": [
+            {
+              "name": "8.0 DSG Veyron 16.4",
+              "url": "/catalog/bugatti/veyron/70280/",
+              "group": "8.0 л, 1001 л.с., бензин, робот, полный привод (4WD)",
+              "specifications": {
+                "Основные параметры": [
+                  {
+                    "name": "Название комплектации",
+                    "value": "8.0 DSG Veyron 16.4"
+                  },
+                  {
+                    "name": "Период выпуска",
+                    "value": "2005 - 2011"
+                  },
+                  {
+                    "name": "Тип привода",
+                    "value": "Полный (4WD)"
+                  },
+                  {
+                    "name": "Тип кузова",
+                    "value": "Купе"
+                  },
+                  {
+                    "name": "Тип трансмиссии",
+                    "value": "РКПП 7"
+                  },
+                  {
+                    "name": "Объем двигателя, куб.см",
+                    "value": "7993"
+                  },
+                  {
+                    "name": "Время разгона 0-100 км/ч, с",
+                    "value": "2.7"
+                  },
+                  {
+                    "name": "Максимальная скорость, км/ч",
+                    "value": "407"
+                  },
+                  {
+                    "name": "Клиренс (высота дорожного просвета), мм",
+                    "value": "124"
+                  },
+                  {
+                    "name": "Страна сборки",
+                    "value": "Франция"
+                  },
+                  {
+                    "name": "Число дверей",
+                    "value": "2"
+                  },
+                  {
+                    "name": "Зимняя комплектация",
+                    "value": "yes"
+                  }
+                ],
+                "Размеры кузова": [
+                  {
+                    "name": "Габариты кузова (Д x Ш x В), мм",
+                    "value": "4462 x 1998 x 1204"
+                  }
+                ],
+                "Размеры салона": [
+                  {
+                    "name": "Число мест",
+                    "value": "2"
+                  },
+                  {
+                    "name": "Количество рядов сидений",
+                    "value": "1"
+                  }
+                ],
+                "Размерности ходовой части": [
+                  {
+                    "name": "Колесная база, мм",
+                    "value": "2710"
+                  },
+                  {
+                    "name": "Ширина передней колеи, мм",
+                    "value": "1722"
+                  },
+                  {
+                    "name": "Ширина задней колеи, мм",
+                    "value": "1633"
+                  }
+                ],
+                "Вес и допустимые нагрузки": [
+                  {
+                    "name": "Масса, кг",
+                    "value": "1888"
+                  },
+                  {
+                    "name": "Удельная масса, кг/л.с.",
+                    "value": "1.89"
+                  }
+                ],
+                "Объёмы": [
+                  {
+                    "name": "Объем топливного бака, л",
+                    "value": "100"
+                  },
+                  {
+                    "name": "Объем багажника, л",
+                    "value": "37"
+                  }
+                ],
+                "Двигатель": [
+                  {
+                    "name": "Используемое топливо",
+                    "value": "Бензин АИ-98"
+                  },
+                  {
+                    "name": "Тип двигателя",
+                    "value": "W-образный, 16-цилиндровый"
+                  },
+                  {
+                    "name": "Нагнетатель",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Тип нагнетателя",
+                    "value": "Четыре турбины"
+                  },
+                  {
+                    "name": "Максимальная мощность, л.с. (кВт) при об./мин.",
+                    "value": "1001 (736) / 6000"
+                  },
+                  {
+                    "name": "Максимальный крутящий момент, Н*м (кг*м) при об./мин.",
+                    "value": "1250 (128) / 2250"
+                  },
+                  {
+                    "name": "Количество клапанов на цилиндр",
+                    "value": "4"
+                  },
+                  {
+                    "name": "Доп. информация о двигателе",
+                    "value": "Инжектор"
+                  }
+                ],
+                "Расход топлива": [
+                  {
+                    "name": "Расход топлива в городском цикле, л/100 км",
+                    "value": "40.4"
+                  },
+                  {
+                    "name": "Расход топлива за городом, л/100 км",
+                    "value": "14.7"
+                  },
+                  {
+                    "name": "Расход топлива в смешанном цикле, л/100 км",
+                    "value": "24,1"
+                  }
+                ],
+                "Рулевое управление": [
+                  {
+                    "name": "Гидроусилитель руля",
+                    "value": "no"
+                  },
+                  {
+                    "name": "Тип рулевого управления",
+                    "value": "Шестерня-рейка"
+                  }
+                ],
+                "Подвеска": [
+                  {
+                    "name": "Передний стабилизатор",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Передняя подвеска",
+                    "value": "Независимая, многорычажная"
+                  },
+                  {
+                    "name": "Задний стабилизатор",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Задняя подвеска",
+                    "value": "Независимая, многорычажная"
+                  },
+                  {
+                    "name": "Спортивная подвеска",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Блокировка центрального дифференциала",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Дифференциал повышенного трения (LSD)",
+                    "value": "yes"
+                  }
+                ],
+                "Диски": [
+                  {
+                    "name": "Алюминиевые колесные диски",
+                    "value": "yes"
+                  }
+                ],
+                "Шины": [
+                  {
+                    "name": "Передние колеса",
+                    "value": "P265/35YR19.7"
+                  },
+                  {
+                    "name": "Задние колеса",
+                    "value": "365/35YR21.5"
+                  },
+                  {
+                    "name": "Самонесущие шины",
+                    "value": "yes"
+                  }
+                ],
+                "Тормоза": [
+                  {
+                    "name": "Передние тормоза",
+                    "value": "Дисковые вентилируемые"
+                  },
+                  {
+                    "name": "Задние тормоза",
+                    "value": "Дисковые вентилируемые"
+                  }
+                ],
+                "Фары": [
+                  {
+                    "name": "Биксеноновые фары",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Омыватели передних фар",
+                    "value": "yes"
+                  }
+                ],
+                "Боковые зеркала": [
+                  {
+                    "name": "Электропривод боковых зеркал",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Электроподогрев зеркал",
+                    "value": "yes"
+                  }
+                ],
+                "Стёкла": [
+                  {
+                    "name": "Заводская тонировка",
+                    "value": "yes"
+                  }
+                ],
+                "Аксессуары": [
+                  {
+                    "name": "Задний спойлер",
+                    "value": "yes"
+                  }
+                ],
+                "Руль и центральная панель": [
+                  {
+                    "name": "Кожаная оплетка рулевого колеса",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Вертикальная регулировка руля",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Цветной многофункциональный дисплей",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Тахометр",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Датчик наружной температуры",
+                    "value": "yes"
+                  }
+                ],
+                "Исполнение салона": [
+                  {
+                    "name": "Кожаная обивка салона",
+                    "value": "yes"
+                  }
+                ],
+                "Сиденья": [
+                  {
+                    "name": "Спортивные сиденья",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Регулировка передних сидений",
+                    "value": "6 направлений"
+                  },
+                  {
+                    "name": "Поясничная опора в передних сиденьях",
+                    "value": "yes"
+                  }
+                ],
+                "Электропакет салона": [
+                  {
+                    "name": "Электроподогрев передних сидений",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Центральный замок",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Ключ ДУ (дистанционный ключ)",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Электрические стеклоподъемники",
+                    "value": "yes"
+                  }
+                ],
+                "Подушки безопасности": [
+                  {
+                    "name": "Подушка безопасности водительская",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Подушка безопасности переднего пассажира",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Подушка безопасности пассажира с функцией деактивации",
+                    "value": "yes"
+                  }
+                ],
+                "Активная и пассивная безопасность": [
+                  {
+                    "name": "Натяжитель ремней безопасности",
+                    "value": "yes"
+                  }
+                ],
+                "Электронные системы безопасности и контроля движения": [
+                  {
+                    "name": "Антиблокировочная система (ABS)",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Система распределения тормозного усилия (EBD)",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Вспомогательная система торможения (BAS)",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Система электронного контроля устойчивости (ESP)",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Индикатор падения давления в шинах",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Парктроник",
+                    "value": "no"
+                  }
+                ],
+                "Микроклимат салона": [
+                  {
+                    "name": "Климат-контроль",
+                    "value": "yes"
+                  }
+                ],
+                "Аудио системы": [
+                  {
+                    "name": "Радио",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "CD-плеер",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Поддержка MP3",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Hands free",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Дополнительное оборудование аудиосистемы",
+                    "value": "8 динамиков, разъем для подключения внешнего аудиоустройства, усилитель"
+                  }
+                ],
+                "Навигационное и видео оборудование": [
+                  {
+                    "name": "Система навигации",
+                    "value": "yes"
+                  }
+                ],
+                "Дополнительные удобства": [
+                  {
+                    "name": "Самозатемняющееся зеркало заднего вида",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Компас",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Подсветка при посадке в салон",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Бортовой компьютер",
+                    "value": "yes"
+                  },
+                  {
+                    "name": "Противоугонная система",
+                    "value": "yes"
+                  }
+                ]
+              }
+            }
+          ],
+          "done": true
+        }
+      ],
+      "done": true
+    }
+  ],
+  "done": true
+}
